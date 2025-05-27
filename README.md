@@ -1,21 +1,25 @@
-# Hi, I'm Sebastián Bolaños Zamora 👋
+<h1 align="center">Sebastián Bolaños Zamora 👋</h1>
+<p align="center"><em>Computer Engineering student · Backend & AI enthusiast</em></p>
 
-I'm a **Computer Engineering student** with a passion for technology, problem-solving, and continuous learning. I'm currently studying at **Tecnológico de Costa Rica** and **Universidad de Costa Rica**. 
+## 🚀 Sobre mí
+- Estudio en el **Tecnológico de Costa Rica** y la **Universidad de Costa Rica**.  
+- Disfruto crear back-ends escalables, integrar IA y trabajar en equipo.
 
-## 👨‍💻 What I'm working on:
-- Developing software projects in **Python**, **C#**, **Java** and **Android**.
-- Creating projects that involve **SQL databases** and integrating with various platforms.
-- Learning and applying knowledge in **multimodal interaction** and **AI** to stay at the cutting edge of technology.
+## 🛠️ Stack
+**Python · C# · Java · C++ · SQL** · .NET · Spring Boot · FastAPI · Android · PostgreSQL · Docker
 
-## 🛠️ Skills:
-- **Languages**: Python, C#, Java, SQL and C++
+## 🌱 Ahora mismo
+- Diseño avanzado de bases de datos y patrones de arquitectura limpia.  
+- Prompt engineering para LLMs multimodales.
 
-## 🌱 I’m currently learning:
-- Improving my knowledge of **databases** and **backend development**.
-- Exploring new **software architectures** and design patterns.
+## 📌 Proyectos destacados
+- [HTTPS Protocol](https://github.com/SebKoreano/HTTPS_Protocol) – Demo cliente-servidor que compara HTTP plano vs HTTPS con TLS.  
+- [Algoritmos de Compresión](https://github.com/SebKoreano/AlgoritmosDeCompresion) – Implementaciones de Huffman y LZ77 en C++.  
+- [Genetic Kingdom](https://github.com/SebKoreano/Genetic-Kingdom) – Tower-defence con A* y algoritmo genético en C++.  
+- [IntelliHome](https://github.com/SebKoreano/IntelliHome) – Plataforma IoT full-stack para control y analítica de consumo.  
+- [Whatsapp-like](https://github.com/SebKoreano/Whatsapp-like) – Chat en C# sobre sockets TCP.  
+- [Pixel Art App](https://github.com/SebKoreano/Proyecto_2-Pixel_Art_App) – Editor de pixel art en Python.  
+- [BST on Disk](https://github.com/SebKoreano/ArbolesBSTenDisco) – Árbol de búsqueda binaria persistente en C#.
 
-## 🚀 What drives me:
-- I'm passionate about **innovation** and always seeking to improve.  
-- My problem-solving mindset keeps me motivated to overcome challenges.  
-- I love collaborating with teams, sharing ideas, and learning from others.
-
+## 🤝 Contacto
+**Correo:** sebkoreano@gmail.com · **LinkedIn:** [Sebastian Bolaños](https://www.linkedin.com/in/sebastian-bola%C3%B1os-zamora-0296a2261)

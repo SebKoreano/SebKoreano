@@ -14,7 +14,7 @@
 
 ## 📌 Proyectos destacados
 - [HTTPS Protocol](https://github.com/SebKoreano/HTTPS_Protocol) – Demo cliente-servidor que compara HTTP plano vs HTTPS con TLS.  
-- [Algoritmos de Compresión](https://github.com/SebKoreano/AlgoritmosDeCompresion) – Implementaciones de Huffman y LZ77 en C++.  
+- [Algoritmos de Compresión](https://github.com/SebKoreano/AlgoritmosDeCompresion) – Implementaciones de Huffman, LZ77 y LZ78 en C++.  
 - [Genetic Kingdom](https://github.com/SebKoreano/Genetic-Kingdom) – Tower-defence con A* y algoritmo genético en C++.  
 - [IntelliHome](https://github.com/SebKoreano/IntelliHome) – Plataforma IoT full-stack para control y analítica de consumo.  
 - [Whatsapp-like](https://github.com/SebKoreano/Whatsapp-like) – Chat en C# sobre sockets TCP.  

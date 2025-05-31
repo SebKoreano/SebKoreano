@@ -6,7 +6,7 @@
 - Disfruto crear back-ends escalables, integrar IA y trabajar en equipo.
 
 ## 🛠️ Stack
-**Python · C# · Java · C++ · SQL** · .NET · Spring Boot · FastAPI · Android · PostgreSQL · Docker
+**Python · C# · Java · C++ · SQL** · .NET · Android
 
 ## 🌱 Ahora mismo
 - Diseño avanzado de bases de datos y patrones de arquitectura limpia.  

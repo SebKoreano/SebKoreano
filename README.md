@@ -1,56 +1,63 @@
 <h1 align="center">Sebastián Bolaños Zamora</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Computadores · Desarrollo Backend · Inteligencia Artificial</em>
+  <em>Computer Engineering Student · Computer Architecture · Hardware/Software Co-Design</em>
 </p>
 
 ---
 
-## Perfil profesional
+## Professional Profile
 
-Soy estudiante de Ingeniería en Computadores en el Tecnológico de Costa Rica. Tengo interés en el desarrollo de software, especialmente en la construcción de soluciones backend, integración de inteligencia artificial, bases de datos y sistemas escalables.
+I am currently studying at the Tecnológico de Costa Rica and the Universidad de Costa Rica. My interests include scalable software systems, low-level computing, intelligent applications, database design, and the integration of software with hardware-oriented solutions.
 
-Me caracterizo por el aprendizaje continuo, la resolución estructurada de problemas y el trabajo colaborativo en proyectos de software.
-
----
-
-## Tecnologías y herramientas
-
-**Lenguajes:** Python · C# · Java · C++ · SQL  
-**Frameworks y plataformas:** .NET · Android  
-**Áreas de interés:** Backend · Bases de datos · Inteligencia Artificial · Arquitectura de software
+I consider myself a continuous learner with a strong interest in problem-solving, structured software design, and collaborative development.
 
 ---
 
-## Áreas de aprendizaje actual
+## Technologies and Tools
 
-- Diseño avanzado de bases de datos.
-- Patrones de arquitectura limpia.
-- Desarrollo de sistemas backend escalables.
-- Aplicación de modelos de lenguaje e inteligencia artificial en soluciones de software.
+**Languages:** Python · C# · Java · C++ · SQL · C
+**Frameworks and Platforms:** .NET · Android  
+**Areas of Interest:** Computer Architecture · Hardware/Software Co-Design · Backend Development · Databases · Artificial Intelligence · Software Architecture
 
 ---
 
-## Proyectos destacados
+## Current Learning Focus
+
+- Advanced database design.
+- Clean architecture patterns.
+- Scalable backend systems.
+- Computer architecture and low-level system design.
+- Hardware/software co-design.
+- Application of language models and artificial intelligence in software solutions.
+
+---
+
+## Featured Projects
 
 - [HTTPS Protocol](https://github.com/SebKoreano/HTTPS_Protocol)  
-  Implementación cliente-servidor para comparar comunicación HTTP convencional frente a HTTPS con TLS.
+  Client-server implementation designed to compare conventional HTTP communication with HTTPS using TLS.
 
-- [Algoritmos de Compresión](https://github.com/SebKoreano/AlgoritmosDeCompresion)  
-  Implementación en C++ de algoritmos de compresión como Huffman, LZ77 y LZ78.
+- [Compression Algorithms](https://github.com/SebKoreano/AlgoritmosDeCompresion)  
+  C++ implementations of compression algorithms such as Huffman, LZ77, and LZ78.
 
 - [Genetic Kingdom](https://github.com/SebKoreano/Genetic-Kingdom)  
-  Videojuego tipo tower defense desarrollado en C++, con uso de algoritmo A* y algoritmo genético.
+  Tower defense game developed in C++, using the A* search algorithm and a genetic algorithm.
 
 - [IntelliHome](https://github.com/SebKoreano/IntelliHome)  
-  Plataforma IoT full-stack orientada al control y análisis del consumo energético.
+  Full-stack IoT platform focused on energy consumption monitoring, control, and analytics.
 
 - [Whatsapp-like](https://github.com/SebKoreano/Whatsapp-like)  
-  Sistema de mensajería desarrollado en C# mediante comunicación con sockets TCP.
+  Messaging system developed in C# using TCP socket communication.
 
 - [Pixel Art App](https://github.com/SebKoreano/Proyecto_2-Pixel_Art_App)  
-  Aplicación en Python para la creación y edición de pixel art.
+  Python application for creating and editing pixel art.
 
 - [BST on Disk](https://github.com/SebKoreano/ArbolesBSTenDisco)  
-  Implementación de un árbol binario de búsqueda persistente en disco utilizando C#.
+  Persistent binary search tree implementation in C#, storing data directly on disk.
 
+---
+
+## Contact
+
+**LinkedIn:** [Sebastián Bolaños Zamora](https://www.linkedin.com/in/sebastian-bola%C3%B1os-zamora-0296a2261)

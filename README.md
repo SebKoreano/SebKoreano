@@ -8,7 +8,7 @@
 
 ## Professional Profile
 
-I am currently studying at the Tecnológico de Costa Rica and the Universidad de Costa Rica. My interests include scalable software systems, low-level computing, intelligent applications, database design, and the integration of software with hardware-oriented solutions.
+I am currently studying at the Tecnológico de Costa Rica. My interests include scalable software systems, low-level computing, intelligent applications, database design, and the integration of software with hardware-oriented solutions.
 
 I consider myself a continuous learner with a strong interest in problem-solving, structured software design, and collaborative development.
 
